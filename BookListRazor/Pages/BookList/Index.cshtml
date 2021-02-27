@@ -10,11 +10,14 @@
 
 <br />
 <div class="container row p-0 m-0">
-    <div class="col-8">
+    <div class="col-6">
         <h2>Book List</h2>
     </div>
     <div class="col-4">
         <a asp-page="Create" class="btn btn-info form-control text-white">Create new Book</a>
+    </div>
+    <div class="col-4">
+        <a asp-page="Upsert" class="btn btn-info form-control text-white">Upsert new book</a>
     </div>
 
     <div class="col-12 border p-3 mt-3">
@@ -66,13 +69,13 @@
     </div>
 
     <div class="col-12" style="text-align:center">
-        <br/>
+        <br />
         <span class="h3 text-info">OR</span>
         <br /><br />
     </div>
     <div class="col-12 border p-3">
 
-        <table id="DT_load" class="table table table-striped table-bordered"style="width:100%">
+        <table id="DT_load" class="table table table-striped table-bordered" style="width:100%">
             <thead>
                 <tr>
                     <th>Name</th>
