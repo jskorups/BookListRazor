@@ -31,3 +31,12 @@ BookListRazor/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js
 BookListRazor/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js
 BookListRazor/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js
 BookListRazor/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt
+.vs/BookListRazor/v16/.suo
+BookListRazor/bin/Debug/netcoreapp3.1/BookListRazor.dll
+BookListRazor/bin/Debug/netcoreapp3.1/BookListRazor.pdb
+BookListRazor/bin/Debug/netcoreapp3.1/BookListRazor.Views.dll
+BookListRazor/bin/Debug/netcoreapp3.1/BookListRazor.Views.pdb
+BookListRazor/obj/Debug/netcoreapp3.1/BookListRazor.dll
+BookListRazor/obj/Debug/netcoreapp3.1/BookListRazor.pdb
+BookListRazor/obj/Debug/netcoreapp3.1/BookListRazor.Views.dll
+BookListRazor/obj/Debug/netcoreapp3.1/BookListRazor.Views.pdb
